@@ -1,0 +1,11 @@
+C:\Users\filip\Desktop\Source_code\JNI\Test Application\bin\Debug\HelloWorld.class
+C:\Users\filip\Desktop\Source_code\JNI\Test Application\bin\Debug\JNITestApplication.exe
+C:\Users\filip\Desktop\Source_code\JNI\Test Application\bin\Debug\JNITestApplication.pdb
+C:\Users\filip\Desktop\Source_code\JNI\Test Application\bin\Debug\JNI.dll
+C:\Users\filip\Desktop\Source_code\JNI\Test Application\bin\Debug\JNI.pdb
+C:\Users\filip\Desktop\Source_code\JNI\Test Application\obj\x86\Debug\JNI Test App.csprojResolveAssemblyReference.cache
+C:\Users\filip\Desktop\Source_code\JNI\Test Application\obj\x86\Debug\WindowsFormsApplication1.frmJNITestHarness.resources
+C:\Users\filip\Desktop\Source_code\JNI\Test Application\obj\x86\Debug\JNITestApplication.Properties.Resources.resources
+C:\Users\filip\Desktop\Source_code\JNI\Test Application\obj\x86\Debug\JNI Test App.csproj.GenerateResource.Cache
+C:\Users\filip\Desktop\Source_code\JNI\Test Application\obj\x86\Debug\JNITestApplication.exe
+C:\Users\filip\Desktop\Source_code\JNI\Test Application\obj\x86\Debug\JNITestApplication.pdb

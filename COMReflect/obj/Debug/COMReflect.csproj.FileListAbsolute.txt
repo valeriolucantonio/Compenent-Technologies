@@ -1,0 +1,26 @@
+C:\Users\Alexandre\Documents\Cours\Master1_SoftwareEngineering\S1\HT1\Component_Technologies\Assignment 3\Prototypes\Reflection\ReflectionTest\COMReflect\bin\Debug\COMReflect.dll
+C:\Users\Alexandre\Documents\Cours\Master1_SoftwareEngineering\S1\HT1\Component_Technologies\Assignment 3\Prototypes\Reflection\ReflectionTest\COMReflect\bin\Debug\COMReflect.pdb
+C:\Users\Alexandre\Documents\Cours\Master1_SoftwareEngineering\S1\HT1\Component_Technologies\Assignment 3\Prototypes\Reflection\ReflectionTest\COMReflect\obj\Debug\COMReflect.dll
+C:\Users\Alexandre\Documents\Cours\Master1_SoftwareEngineering\S1\HT1\Component_Technologies\Assignment 3\Prototypes\Reflection\ReflectionTest\COMReflect\obj\Debug\COMReflect.pdb
+C:\Users\Alexandre\Documents\Cours\Master1_SoftwareEngineering\S1\HT1\Component_Technologies\Assignment 3\Prototypes\Reflection\ReflectionTest\COMReflect\obj\Debug\COMReflect.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Documents\Cours\Master1_SoftwareEngineering\S1\HT1\Component_Technologies\Assignment3\Prototypes\Reflection\ReflectionTest\COMReflect\bin\Debug\COMReflect.dll
+C:\Users\Alexandre\Documents\Cours\Master1_SoftwareEngineering\S1\HT1\Component_Technologies\Assignment3\Prototypes\Reflection\ReflectionTest\COMReflect\bin\Debug\COMReflect.pdb
+C:\Users\Alexandre\Documents\Cours\Master1_SoftwareEngineering\S1\HT1\Component_Technologies\Assignment3\Prototypes\Reflection\ReflectionTest\COMReflect\obj\Debug\COMReflect.dll
+C:\Users\Alexandre\Documents\Cours\Master1_SoftwareEngineering\S1\HT1\Component_Technologies\Assignment3\Prototypes\Reflection\ReflectionTest\COMReflect\obj\Debug\COMReflect.pdb
+C:\Users\Alexandre\Documents\Cours\Master1_SoftwareEngineering\S1\HT1\Component_Technologies\Assignment3\Prototypes\Reflection\ReflectionTest\COMReflect\obj\Debug\COMReflect.csprojResolveAssemblyReference.cache
+D:\Merlinone\Universita\Specialistica\Component Technologies\Repository_1.2\Repository\COMReflect\bin\Debug\COMReflect.dll
+D:\Merlinone\Universita\Specialistica\Component Technologies\Repository_1.2\Repository\COMReflect\bin\Debug\COMReflect.pdb
+D:\Merlinone\Universita\Specialistica\Component Technologies\Repository_1.2\Repository\COMReflect\obj\Debug\COMReflect.dll
+D:\Merlinone\Universita\Specialistica\Component Technologies\Repository_1.2\Repository\COMReflect\obj\Debug\COMReflect.pdb
+C:\Users\filip\Desktop\COMPONENT TECH\Repository_1.2\Repository\COMReflect\bin\Debug\COMReflect.dll
+C:\Users\filip\Desktop\COMPONENT TECH\Repository_1.2\Repository\COMReflect\bin\Debug\COMReflect.pdb
+C:\Users\filip\Desktop\COMPONENT TECH\Repository_1.2\Repository\COMReflect\obj\Debug\COMReflect.csprojResolveAssemblyReference.cache
+C:\Users\filip\Desktop\COMPONENT TECH\Repository_1.2\Repository\COMReflect\obj\Debug\COMReflect.dll
+C:\Users\filip\Desktop\COMPONENT TECH\Repository_1.2\Repository\COMReflect\obj\Debug\COMReflect.pdb
+C:\Users\Alexandre\Documents\Cours\Master1_SoftwareEngineering\S1\HT1\Component_Technologies\Assignment3\Prototypes\Final\Repository_1.3.1\Repository\COMReflect\bin\Debug\COMReflect.dll
+C:\Users\Alexandre\Documents\Cours\Master1_SoftwareEngineering\S1\HT1\Component_Technologies\Assignment3\Prototypes\Final\Repository_1.3.1\Repository\COMReflect\bin\Debug\COMReflect.pdb
+C:\Users\Alexandre\Documents\Cours\Master1_SoftwareEngineering\S1\HT1\Component_Technologies\Assignment3\Prototypes\Final\Repository_1.3.1\Repository\COMReflect\bin\Debug\NETReflect.dll
+C:\Users\Alexandre\Documents\Cours\Master1_SoftwareEngineering\S1\HT1\Component_Technologies\Assignment3\Prototypes\Final\Repository_1.3.1\Repository\COMReflect\bin\Debug\NETReflect.pdb
+C:\Users\Alexandre\Documents\Cours\Master1_SoftwareEngineering\S1\HT1\Component_Technologies\Assignment3\Prototypes\Final\Repository_1.3.1\Repository\COMReflect\obj\Debug\COMReflect.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Documents\Cours\Master1_SoftwareEngineering\S1\HT1\Component_Technologies\Assignment3\Prototypes\Final\Repository_1.3.1\Repository\COMReflect\obj\Debug\COMReflect.dll
+C:\Users\Alexandre\Documents\Cours\Master1_SoftwareEngineering\S1\HT1\Component_Technologies\Assignment3\Prototypes\Final\Repository_1.3.1\Repository\COMReflect\obj\Debug\COMReflect.pdb

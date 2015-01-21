@@ -1,0 +1,8 @@
+C:\Users\Alexandre\Documents\Cours\Master1_SoftwareEngineering\S1\HT1\Component_Technologies\Assignment 3\Prototypes\Reflection\ReflectionTest\NETReflect\bin\Debug\NETReflect.dll
+C:\Users\Alexandre\Documents\Cours\Master1_SoftwareEngineering\S1\HT1\Component_Technologies\Assignment 3\Prototypes\Reflection\ReflectionTest\NETReflect\bin\Debug\NETReflect.pdb
+C:\Users\Alexandre\Documents\Cours\Master1_SoftwareEngineering\S1\HT1\Component_Technologies\Assignment 3\Prototypes\Reflection\ReflectionTest\NETReflect\obj\Debug\NETReflect.dll
+C:\Users\Alexandre\Documents\Cours\Master1_SoftwareEngineering\S1\HT1\Component_Technologies\Assignment 3\Prototypes\Reflection\ReflectionTest\NETReflect\obj\Debug\NETReflect.pdb
+D:\Merlinone\Universita\Specialistica\Component Technologies\Repository_1.2\Repository\ReflectionTest\NETReflect\bin\Debug\NETReflect.dll
+D:\Merlinone\Universita\Specialistica\Component Technologies\Repository_1.2\Repository\ReflectionTest\NETReflect\bin\Debug\NETReflect.pdb
+D:\Merlinone\Universita\Specialistica\Component Technologies\Repository_1.2\Repository\ReflectionTest\NETReflect\obj\Debug\NETReflect.dll
+D:\Merlinone\Universita\Specialistica\Component Technologies\Repository_1.2\Repository\ReflectionTest\NETReflect\obj\Debug\NETReflect.pdb

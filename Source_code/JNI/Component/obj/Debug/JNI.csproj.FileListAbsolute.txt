@@ -1,0 +1,4 @@
+C:\Users\filip\Desktop\Source_code\JNI\Component\bin\Debug\JNI.dll
+C:\Users\filip\Desktop\Source_code\JNI\Component\bin\Debug\JNI.pdb
+C:\Users\filip\Desktop\Source_code\JNI\Component\obj\Debug\JNI.dll
+C:\Users\filip\Desktop\Source_code\JNI\Component\obj\Debug\JNI.pdb
